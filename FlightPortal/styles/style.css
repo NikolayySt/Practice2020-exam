@@ -1,0 +1,14 @@
+.grid-display {
+  width: 25% !important;
+  height: 50% !important;
+  display: inline-grid !important;
+}
+
+.even-row {
+    background-color: aqua;
+}
+
+.not-even-row {
+    background-color: #b260fd;
+}
+
